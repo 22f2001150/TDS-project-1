@@ -1,3 +1,9 @@
 PROJECT - 1
 
-Collected data from website using WebScraping tool Beautiful Soup and performed data analysis using excel and python libraries like numpy, matplotlib and pandas.
+KEY HIGHLIGHTS 
+
+Data Extraction: Leveraged the GitHub API to retrieve information on high-follower users based in Sydney, focusing on essential user metrics such as follower count, bio, and repository details like star count and language.
+
+Insightful Finding: Notably, while many Sydney-based users have over 100 followers, a significant portion lack repositories with active engagement, with 70% of repos having fewer than five stars.
+
+Strategic Developer Tip: By focusing on more collaborative or innovative repositories, these developers could better capitalize on their follower base and enhance their professional reach in the GitHub community
